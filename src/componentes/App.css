@@ -51,7 +51,7 @@ body {
   place-content: center;
   min-height: 100vh;
 }
-//tes
+
 
 #cabecera {
   display: flex;               
@@ -90,7 +90,7 @@ header {
   cursor: pointer;  
   margin-left: 220px;   
   margin: 10px;     
-
+}
 .varios{
   display: flex;
   flex-direction: column;
