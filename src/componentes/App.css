@@ -80,9 +80,9 @@ header {
   border-radius: 50%;         
 }
 
-#boton {
+#boton-siguiendo {
   padding: 10px 20px;         
-  background-color: #61dafb;  
+  background-color: #d6f6ff;  
   color: rgb(0, 0, 0);        
   border: none;               
   border-radius: 50px;        
@@ -91,6 +91,28 @@ header {
   margin-left: 220px;   
   margin: 10px;     
 }
+
+
+#boton-siguiendo:hover{
+  background-color: #21c412;
+}
+
+
+#boton-no-siguiendo{
+  padding: 10px 20px;         
+  background-color: #fb6161;  
+  color: rgb(0, 0, 0);        
+  border: none;               
+  border-radius: 50px;        
+  font-size: 21px;            
+  cursor: pointer;  
+  margin-left: 220px;   
+  margin: 10px;  
+}
+
+
+
+
 .varios{
   display: flex;
   flex-direction: column;
