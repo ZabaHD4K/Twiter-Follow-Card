@@ -17,6 +17,10 @@ function App() {
         avatar="https://distribucionesplata.com/tienda/20122-thickbox_default/monster-energy-drink-green-lt-500-ml.jpg" 
         isFollowing={false}  // Pasa otro valor inicial
       />
+
+
+
+
     </section> 
   );
 }

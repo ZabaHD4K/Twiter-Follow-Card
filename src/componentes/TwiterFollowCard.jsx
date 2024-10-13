@@ -45,6 +45,7 @@ export function TwitterFollowCard({ nombre_usuario, arroba, avatar, isFollowing:
                 <aside>
                     <button id={botonid} onClick={handleButtonClick}>
                         {text}
+                        <span className='boton-dejar-seguir'>Dejar de seguir</span>
                     </button>
                 </aside>
             </header>
